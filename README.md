@@ -1,4 +1,4 @@
-# Beyond phase error compensation: pixel mapping-based error correction for high-accuracy 3D surface measurement
+# Structured-light based high-accuracy 3D surface measurement
 
 ## Demo:
 ![Thumbnail Image](3dscan_demo.gif?raw=true)
