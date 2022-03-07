@@ -1,5 +1,8 @@
-# 高精度结构光三维测量
+# Beyond phase error compensation: pixel mapping-based error correction for high-accuracy 3D surface measurement
 
-投影仪-相机系统的非线性特性，导致基于该系统的结构光三维测量必然存在误差。为提高结构光三维测量精度，提出一种新的误差校正算法，测量过程及效果如下。
-
+Demo:
 ![Thumbnail Image](3dscan_demo.gif?raw=true)
+
+Related Work:
+[1]Beyond phase error compensation: pixel mapping-based error correction for high-accuracy 3D surface measurement [[Download here]](https://github.com/lpl-code/FastProjDefocusComp/blob/master/09119846.pdf)
+[2]Chessboard-Like High-Frequency Patterns for 3D Measurement of Reflective Surface [[Download here]](https://github.com/lpl-code/FastProjDefocusComp/blob/master/09119846.pdf)
